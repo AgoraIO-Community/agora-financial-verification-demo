@@ -3,7 +3,7 @@ export type { ScenarioPresentation } from '@/types/presentation';
 
 export const presentation: ScenarioPresentation = {
   "id": "financial-verification",
-  "name": "Financial Verification",
+  "name": "Card Services Assistant",
   "purpose": "Use public practice phrases to rehearse a card services conversation.",
   "summary": "Use public practice phrases to rehearse a card services conversation.",
   "featuresHeading": "In this conversation",
@@ -40,7 +40,7 @@ export const presentation: ScenarioPresentation = {
   ],
   "developer": {
     "runCommand": "pnpm install --frozen-lockfile\npnpm run doctor\npnpm run dev",
-    "assistantPrompt": "Help me run the local Financial Verification demo from this repository. Read README.md and RECIPE.md. Use Node.js 24 and pnpm 9.15.9. Help me configure my own Agora project in .env.local, keeping the App Certificate server-side. Run the documented local verification. For the voice check, try this request and then correct one detail: I would like to practice reporting an unfamiliar card charge. Report which checks ran.",
+    "assistantPrompt": "Help me run the local Card Services Assistant demo from this repository. Read README.md and RECIPE.md. Use Node.js 24 and pnpm 9.15.9. Help me configure my own Agora project in .env.local, keeping the App Certificate server-side. Run the documented local verification. For the voice check, try this request and then correct one detail: I would like to practice reporting an unfamiliar card charge. Report which checks ran.",
     "docsUrl": "https://docs.agora.io/en/ai/build/build-server-client",
     "sdkUrl": "https://github.com/AgoraIO/agora-agents-ts",
     "consoleUrl": "https://console.agora.io/",

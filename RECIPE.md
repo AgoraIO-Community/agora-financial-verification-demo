@@ -1,4 +1,4 @@
-# Agora Financial Verification Demo
+# Agora Card Services Assistant Demo
 
 ## 1. What you build
 

@@ -1,4 +1,4 @@
-# Agora Financial Verification Demo
+# Agora Card Services Assistant Demo
 
 Use public practice phrases to rehearse a card services conversation. This browser demo uses Agora Conversational AI and fictional reference material. Its output is a spoken draft for the current conversation.
 
