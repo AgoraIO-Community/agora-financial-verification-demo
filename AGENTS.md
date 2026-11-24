@@ -1,4 +1,4 @@
-# Agora Card Services Assistant Demo
+# Agora Financial Verification Assistant Demo
 
 Use Node.js 24 and pnpm 9.15.9. Copy `env.local.example` to `.env.local` for local configuration. Keep the App Certificate server-side.
 
