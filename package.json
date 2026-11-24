@@ -1,6 +1,6 @@
 {
   "name": "agora-financial-verification-demo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Use public practice phrases to rehearse a card services conversation.",
   "private": true,
   "engines": {
@@ -68,10 +68,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/littleDogWang/agora-financial-verification-demo.git"
+    "url": "git+https://github.com/AgoraIO-Community/agora-financial-verification-demo.git"
   },
-  "homepage": "https://github.com/littleDogWang/agora-financial-verification-demo#readme",
+  "homepage": "https://github.com/AgoraIO-Community/agora-financial-verification-demo#readme",
   "bugs": {
-    "url": "https://github.com/littleDogWang/agora-financial-verification-demo/issues"
+    "url": "https://github.com/AgoraIO-Community/agora-financial-verification-demo/issues"
   }
 }

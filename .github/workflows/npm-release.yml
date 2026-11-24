@@ -13,7 +13,7 @@ concurrency:
 
 jobs:
   verify:
-    if: github.repository == 'littleDogWang/agora-financial-verification-demo'
+    if: github.repository == 'AgoraIO-Community/agora-financial-verification-demo'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
